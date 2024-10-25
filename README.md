@@ -32,4 +32,8 @@ Após isso recarregue a pagina, seu identificado vai estar logo ali em baixo aon
 
 ![image](https://github.com/user-attachments/assets/5d13d698-b8da-4f2a-9a83-bc1546accaa7)
 
+Após isso o Download ira começar e tudo sera salvo dentro da pasta IMAGENS ou PICTURES do seu computador
+![image](https://github.com/user-attachments/assets/a7987a73-b35b-4527-a679-14afb44869e3)
+
+
 
