@@ -7,6 +7,8 @@ Basta baixar e executar o escript "baixar-revista".
 
 Quando executar o bat, será pedido o identificador, segue abaixo como vc consegue esse identificador.
 
+ESSE PROCEDIMENTO FUNCIONA PARA QUALQER HISTORIA DO SITE DENTRO DA HISTORIA
+
 Preencha o site com nome, sexo e clicke em criar e personalize seu avatar.
 
 ![image](https://github.com/user-attachments/assets/5864919d-66af-4486-a5b1-0ec6565510f2)
